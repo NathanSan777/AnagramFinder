@@ -57,7 +57,7 @@ public class AnagramFinderMain {
 		ArrayList<String> anagrams = new ArrayList<String>();
 		
 		Scanner toScan = new Scanner(System.in);
-		System.out.println("Hello! Welcome to the Anagram Finder. Please enter a word.");
+		System.out.println("Hello!! Welcome to the Anagram Finder. Please enter a word.");
 		//Set the user input to lowercase, as all of the dictionary's words
 		//are lowercase. Otherwise, the ASCII value of the word will differ 
 		//when I compare them.
